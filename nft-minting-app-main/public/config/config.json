@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xffbF73fE811e987034Bb5d0252d2173E0670FAa7",
+  "SCAN_LINK": "https://polygonscan.com/address/0xffbF73fE811e987034Bb5d0252d2173E0670FAa7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Weird Robo Club Official",
+  "SYMBOL": "WRCO",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 84,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/weirdroboclubofficial",
+  "SHOW_BACKGROUND": true
+}
